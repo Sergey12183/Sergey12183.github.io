@@ -2,5 +2,5 @@
 
 ### Спецификация требований к ПО
 Учебный проект, спецификация требований к веб-приложению Chatty 2.1 для обучения английскому языку (новые функции словаря и карточек для изучения новых слов)
+- <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/ST_PO_%20Chatty%202.0%20(3).docx" target="_blank">ST_PO_Chatty2.0</a> (.docx)
 
-https://github.com/Sergey12183/Sergey12183.github.io/blob/main/ST_PO_%20Chatty%202.0%20(3).docx
