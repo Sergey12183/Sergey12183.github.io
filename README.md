@@ -6,3 +6,4 @@
 
 ### Приложение для пациентов медицинской клиники
 Модели as-is процесса «Запись на прием в медицинской клинике Вита» в нотации BPMN и UML State Machine Diagram, модель to-be в BPMN:
+- <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/BPMN%20и%20UML%20процесса%20записи%20на%20прием.drawio" target="_blank">BPMN и UML процесса записи на прием</a> (.drawio)
