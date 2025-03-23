@@ -16,6 +16,8 @@
 - <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/Словарь%20данных.docx" target="_blank">Словарь данных</a> (.docx)
 - <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/" target="_blank">Программа и методика испытаний</a> (.docx)
 - <a href="https://drive.google.com/file/d/1REH4nEIKhEhYUgYI4LfL94NFuNoXJV8f/view?usp=drive_link" target="_blank">Видеозапись демонстрации прототипа для заказчика</a> (Яндекс диск)
+- <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/ER-диаграмма%2C%20Диаграмма%20Crow's%20foots.drawio" target="_blank">ER-диаграмма, Диаграмма Crow's foots</a> (.drawio)
+
 
    
   
