@@ -14,4 +14,6 @@
 - Карта пользовательских историй, критерии и сценарии приемки:
   <a href="https://miro.com/app/board/uXjVLoLZnk0=/" target="_blank">User Story Map for Stets Home</a> (Miro)
 - <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/Словарь%20данных.docx" target="_blank">Словарь данных</a> (.docx)
+- <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/" target="_blank">Программа и методика испытаний</a> (.docx)
+  
   
