@@ -17,6 +17,7 @@
 - <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/" target="_blank">Программа и методика испытаний</a> (.docx)
 - <a href="https://drive.google.com/file/d/1REH4nEIKhEhYUgYI4LfL94NFuNoXJV8f/view?usp=drive_link" target="_blank">Видеозапись демонстрации прототипа для заказчика</a> (Яндекс диск)
 - <a href="https://github.com/Sergey12183/Sergey12183.github.io/blob/main/ER-диаграмма%2C%20Диаграмма%20Crow's%20foots.drawio" target="_blank">ER-диаграмма, Диаграмма Crow's foots</a> (.drawio)
+- <a href="https://www.figma.com/design/DDmyRxgn0QUfSGUfulAIdz/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets-(Copy)?node-id=12712-1522&t=D3PDjrfgOtwovOCF-1" target="_blank">Интерактивный прототип</a> (Miro)
 
 
    
